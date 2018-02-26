@@ -1,3 +1,0 @@
-hasky shiba 
-http://140.115.152.223:7001/data/hasky/hasky1.jpg http://140.115.152.223:7001/data/hasky/hasky2.jpg 
-http://140.115.152.223:7001/data/shiba/shiba1.jpg http://140.115.152.223:7001/data/shiba/shiba2.jpg 
